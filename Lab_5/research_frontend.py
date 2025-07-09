@@ -134,5 +134,7 @@ Deliver precise, evidence-based insights that enable informed financial decision
     if accumulated_text:
         st.markdown(f"**Agent:** {accumulated_text}")
 
+    st.markdown(result)
+
     #display metrics and vsiualizations in sidebar
     agent_visualizer.show_agent_summary_sidebar(result)

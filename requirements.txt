@@ -4,7 +4,7 @@ strands-agents
 
 
 # Model Context Protocol
-mcp
+FastMcp
 
 # Financial data APIs
 yfinance

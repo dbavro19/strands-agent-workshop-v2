@@ -1,7 +1,7 @@
 # Core AWS and Strands dependencies
 boto3
-strands
-strands-tools
+strands-agents
+
 
 # Model Context Protocol
 mcp

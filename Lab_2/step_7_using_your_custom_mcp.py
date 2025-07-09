@@ -18,7 +18,7 @@ bedrock_model = BedrockModel(
 # Create MCP client for our custom MCP server
 rng_mcp_client = MCPClient(lambda: stdio_client(
     StdioServerParameters(
-        command="python", 
+        command="python3", 
         args=["step_6_custom_mcps.py"]
     )
 ))

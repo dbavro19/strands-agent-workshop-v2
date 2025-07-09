@@ -15,6 +15,7 @@ dill
 
 # Web framework for frontends
 streamlit
+matplotlib
 
 # Date and time handling (built-in, but explicit for clarity)
 # datetime - built-in module
